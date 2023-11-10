@@ -1,0 +1,21 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#ecf0f1;
+    color: black;
+    padding: 10px 20px; 
+}
+  
+  .nav{
+    display: flex;
+    justify-content: space-around; 
+    width: 500px;
+    font-size: small;
+    color: black;
+
+  }
+  .nav-logo{
+    padding-left: 50px;
+  }
+  
